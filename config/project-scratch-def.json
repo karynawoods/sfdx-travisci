@@ -2,8 +2,9 @@
     "orgName": "BraveFox",
     "edition": "Developer",
     "settings": {
-    "lightningExperienceSettings": {
-        "enableS1DesktopEnabled": true
+        "lightningExperienceSettings": {
+            "enableS1DesktopEnabled": true
 
+        }
     }
 }
